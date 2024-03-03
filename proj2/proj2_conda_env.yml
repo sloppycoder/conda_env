@@ -1,0 +1,7 @@
+name: proj2
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - python-dotenv
+prefix: /home/guru_lin_gmail_com/anaconda3/envs/proj2

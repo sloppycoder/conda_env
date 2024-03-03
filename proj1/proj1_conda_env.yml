@@ -1,0 +1,7 @@
+name: proj1
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+prefix: /home/guru_lin_gmail_com/anaconda3/envs/proj1

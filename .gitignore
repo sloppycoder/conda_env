@@ -1,0 +1,16 @@
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.venv
+*.egg-info
+.env*
+
+# test reports
+test-report/
+.coverage
+coverage.xml
+pytest_junit.xml
+
+# mypy
+.mypy_cache/
