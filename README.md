@@ -19,7 +19,7 @@ conda install numpy
 # create test.py file and run
 
 # export environment to an envrionment file
-conda env export --from-history > proj1_conda_env.yml
+conda env export > proj1_conda_env.yml
 conda deactivate
 
 cd ..
@@ -33,7 +33,7 @@ conda install python-dotenv
 # create test.py file and run
 
 # export environment to an envrionment file
-conda env export --from-history > proj2_conda_env.yml
+conda env export > proj2_conda_env.yml
 conda deactivate
 
 # check environments created
